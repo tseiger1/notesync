@@ -1,0 +1,10 @@
+{
+  "id": "notesync",
+  "name": "NoteSync",
+  "version": "0.1.0",
+  "minAppVersion": "1.5.0",
+  "description": "Convert handwritten notes from watched folders into markdown",
+  "author": "Thomas Schweiger",
+  "authorUrl": "",
+  "isDesktopOnly": true
+}
